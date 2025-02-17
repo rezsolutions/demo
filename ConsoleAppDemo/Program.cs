@@ -16,6 +16,8 @@ namespace ConsoleAppDemo
             Console.WriteLine("from ultim8pedigree");
 
             Console.WriteLine("from krezpc 2502162325");
+
+            Console.WriteLine("from krezpc number 2");
         }
     }
 }
