@@ -14,6 +14,10 @@ namespace ConsoleAppDemo
         static void Main(string[] args)
         {
             Console.WriteLine("from ultim8pedigree");
+
+            Console.WriteLine("from ultim8pedigree 2502162347");
+
+            Console.WriteLine("more changes");
         }
     }
 }
