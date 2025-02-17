@@ -10,6 +10,7 @@ namespace ConsoleAppDemo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("from ultim8pedigree");
         }
     }
 }
